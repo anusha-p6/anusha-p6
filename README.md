@@ -1,4 +1,4 @@
-# Hi there, I'm Lakshmi Sai Anusha 👋
+# Hi there, I'm Anusha Pattela👋
 
 ### 💻 Software Developer | Java & Spring Boot | Python | Machine Learning
 
